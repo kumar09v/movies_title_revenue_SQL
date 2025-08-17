@@ -1,0 +1,18 @@
+movie_id,title,budget,revenue,unit,currency,profit_mln
+101,"K.G.F: Chapter 2",1.00,12.50,Billions,INR,11500.00
+136,"Bajrangi Bhaijaan",900.00,11690.00,Millions,INR,10790.00
+130,PK,850.00,8540.00,Millions,INR,7690.00
+133,RRR,5.50,12.00,Billions,INR,6500.00
+131,Sanju,1.00,5.90,Billions,INR,4900.00
+134,"Baahubali: The Beginning",1.80,6.50,Billions,INR,4700.00
+108,"3 Idiots",550.00,4000.00,Millions,INR,3450.00
+135,"The Kashmir Files",250.00,3409.00,Millions,INR,3159.00
+110,"Bajirao Mastani ",1.40,3.50,Billions,INR,2100.00
+107,"Dilwale Dulhania Le Jayenge",400.00,2000.00,Millions,INR,1600.00
+132,"Pushpa: The Rise - Part 1",2.00,3.60,Billions,INR,1600.00
+139,"Race 3",1.80,3.10,Billions,INR,1300.00
+128,"Taare Zameen Par",120.00,1350.00,Millions,INR,1230.00
+109,"Kabhi Khushi Kabhie Gham",390.00,1360.00,Millions,INR,970.00
+140,Shershaah,500.00,950.00,Millions,INR,450.00
+129,"Munna Bhai M.B.B.S.",100.00,410.00,Millions,INR,310.00
+127,"Pather Panchali",70000.00,100000.00,Thousands,INR,30.00
